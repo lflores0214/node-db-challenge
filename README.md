@@ -180,7 +180,7 @@ Explain the differences between relational databases and SQL
 
 Why do tables need a primary key?
 
-- tables need primary keys because they are used for joining multiple tables
+- tables need primary keys because they are used for joining multiple tables. unique identifier
 
 What is the name given to a table that references the primary key on another table?
 
